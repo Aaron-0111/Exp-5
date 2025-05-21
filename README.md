@@ -6,7 +6,7 @@ To draw the UML diagram for Student Course Enrollment System.
 # SRS (Procedure):
 Create the following diagrams in StarUML:
 
-Use Case Diagram
+Use Case Diagram 
 Class Diagram
 Activity Diagram
 Sequence Diagram
